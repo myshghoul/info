@@ -12,5 +12,3 @@
 
 
 texts
-
-![mouthwashing-mouthwashing-game](https://github.com/user-attachments/assets/b09c3afa-723a-409f-9d92-e1d01c91ac02)
